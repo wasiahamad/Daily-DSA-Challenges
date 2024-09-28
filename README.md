@@ -14,7 +14,7 @@ Welcome to my repository dedicated to daily Data Structures and Algorithms (DSA)
 
 ## 🥇 Challenge Log
 
-### Day 1: [Third Maximum Number](./Day1-ThirdMax.java)
+### Day 1: [Third Maximum Number](Day1-ThirdMax.java)
 - **Description**: Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
   
 ### Day 2: [Search Insert Position](./Day2-SearchInsert.java)
