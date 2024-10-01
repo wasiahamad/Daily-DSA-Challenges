@@ -27,7 +27,9 @@ Welcome to my repository dedicated to daily Data Structures and Algorithms (DSA)
 - **Description**: Find the maximum number of consecutive 1s in a binary array.
 
 ### Day 5: [Length of Last Word](./Day5-LengthOfLastWord.java)
-- **Description**: Determine the length of the last word in a string.
+- **Description**: Given a string s consisting of words and spaces, return the length of the last word in the string.
+
+A word is a maximal substring consisting of non-space characters only.
 
 ### Day 6: [FizzBuzz](./Day6-FizzBuzz.java)
 - **Description**: Print numbers from 1 to n, but for multiples of three print "Fizz," for multiples of five print "Buzz," and for multiples of both print "FizzBuzz."
