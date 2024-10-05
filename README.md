@@ -40,6 +40,9 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 8: [Palindrome Number](./Day8-PalindromeNumber.java)
 - **Description**: Determine if a given number is a palindrome.
 
+### Day 9: [Two Sum](Day9_twosum.java)
+- **Description**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
 
 ## 🔧 How to Contribute
 
