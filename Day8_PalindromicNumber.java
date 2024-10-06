@@ -1,6 +1,10 @@
 public class Day8_PalindromicNumber {
     public static boolean palindromicNumber(int n) {
-        // int original = n;  // 1st Approach tc- o(n);
+        // 1st Approach tc- o(n);
+        // if (n < 0) {
+        //     return false;
+        // }
+        // int original = n;
         // int reversed = 0;
         // while (0 < n) {
         //     int lastDigit = n % 10;

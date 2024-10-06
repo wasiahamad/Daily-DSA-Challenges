@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 /**
  * Day9_twoSum
  */
@@ -21,6 +19,6 @@ public class Day9_twoSum {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         int[] result = twoSum(nums, target);
-        System.out.println(result);
+        System.out.println(Arrays.toString(result));
     }
 }
