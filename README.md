@@ -43,6 +43,8 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 9: [Two Sum](Day9_twosum.java)
 - **Description**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
+### Day 10: [Trapping Water](Day10_TrappingWater.java)
+- **Description**: We need to calculate how much rainwater can be trapped between buildings after it rains. The buildings are represented by an array of heights, and the amount of water trapped depends on how tall the surrounding buildings are.
 
 ## 🔧 How to Contribute
 
