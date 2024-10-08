@@ -46,6 +46,12 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 10: [Trapping Water](Day10_TrappingWater.java)
 - **Description**: We need to calculate how much rainwater can be trapped between buildings after it rains. The buildings are represented by an array of heights, and the amount of water trapped depends on how tall the surrounding buildings are.
 
+### Day 11: [Maximum Sub Array](Day11_MaxSubArray.java)
+- **Description**: Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
+### Day 12: [Search in Rotated Sorted Array](Day12_SearchInArray.java)
+- **Description**: Given an integer array nums, find the subarray with the largest sum, and return its sum.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
