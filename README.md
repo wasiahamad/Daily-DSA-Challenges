@@ -58,6 +58,9 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 14: [Best Time to Buy and Sell Stock](Day14_BuySell.java)
 - **Description**: You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 
+### Day 15: [ Longest Palindromic Substring](Day15_LongestPalindrome.java)
+- **Description**:Given a string s, return the longest palindromic substring in s.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
