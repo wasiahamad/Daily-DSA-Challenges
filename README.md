@@ -61,6 +61,10 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 15: [ Longest Palindromic Substring](Day15_LongestPalindrome.java)
 - **Description**:Given a string s, return the longest palindromic substring in s.
 
+### Day 16: [Find Minimum in Rotated Sorted Array](Day16_findMinimum.java)
+- **Description**: Given the sorted rotated array nums of unique elements, return the minimum element of this array.
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
