@@ -64,6 +64,8 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 16: [Find Minimum in Rotated Sorted Array](Day16_findMinimum.java)
 - **Description**: Given the sorted rotated array nums of unique elements, return the minimum element of this array.
 
+### Day 17: [longestCommonPrefix](Day17_longestCommonPrefix.java)
+- **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
 
 ## 🔧 How to Contribute
 
