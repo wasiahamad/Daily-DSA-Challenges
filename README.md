@@ -73,6 +73,9 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 19: [Valid Parentheses](Day19_ValidParentheses.java)
 - **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
 
+### Day 20: [Set Matrix Zeroes](Day20_SetMatrixZeroes.java)
+- **Description**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
