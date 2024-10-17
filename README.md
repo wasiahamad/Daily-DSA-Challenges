@@ -77,7 +77,7 @@ A word is a maximal substring consisting of non-space characters only.
 - **Description**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 
 
-### Day 21: [ Maximum Swap](Day21_ MaximumSwap.java)
+### Day 21: [Maximum Swap](Day21_MaximumSwap.java)
 - **Description**: You are given an integer num. You can swap two digits at most once to get the maximum valued number.
 
 Return the maximum valued number you can get.
