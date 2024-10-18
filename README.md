@@ -52,6 +52,38 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 12: [Search in Rotated Sorted Array](Day12_SearchInArray.java)
 - **Description**: Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
+### Day 13: [Container With Most Water](Day13_moastWater.java)
+- **Description**: Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+### Day 14: [Best Time to Buy and Sell Stock](Day14_BuySell.java)
+- **Description**: You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+### Day 15: [ Longest Palindromic Substring](Day15_LongestPalindrome.java)
+- **Description**:Given a string s, return the longest palindromic substring in s.
+
+### Day 16: [Find Minimum in Rotated Sorted Array](Day16_findMinimum.java)
+- **Description**: Given the sorted rotated array nums of unique elements, return the minimum element of this array.
+
+### Day 17: [longestCommonPrefix](Day17_longestCommonPrefix.java)
+- **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+
+### Day 18: [Valid Anagram](Day18_ValidAnagram.java)
+- **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+
+### Day 19: [Valid Parentheses](Day19_ValidParentheses.java)
+- **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
+
+### Day 20: [Set Matrix Zeroes](Day20_SetMatrixZeroes.java)
+- **Description**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
+
+### Day 21: [Maximum Swap](Day21_MaximumSwap.java)
+- **Description**: You are given an integer num. You can swap two digits at most once to get the maximum valued number.
+Return the maximum valued number you can get.
+
+### Day 22: [Is Subsequence](Day22_IsSubsequence.java)
+- **Description**: Given two strings s and t, return true if s is a subsequence of t, or false otherwise..
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
