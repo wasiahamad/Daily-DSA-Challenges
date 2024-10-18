@@ -1,5 +1,5 @@
 /**
- * Day10_TrappingWater
+ * Day10_TrappingWater solution
  */
 public class Day10_TrappingWater {
 
