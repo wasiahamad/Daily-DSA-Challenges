@@ -14,30 +14,30 @@ Welcome to my repository dedicated to daily Data Structures and Algorithms (DSA)
 
 ## 🥇 Challenge Log
 
-### Day 1: [Third Maximum Number](Day1-ThirdMax.java)
+### Day 1: [Third Maximum Number](Day1_ThirdMax.java)
 - **Description**: Given an integer array nums, return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number.
   
-### Day 2: [Search Insert Position](./Day2-SearchInsert.java)
+### Day 2: [Search Insert Position](Day2_SearchInsert.java)
 - **Description**: Search for a target value in a sorted array or determine the position where it should be inserted.
 
-### Day 3: [Remove Element](./Day3-RemoveElement.java)
+### Day 3: [Remove Element](Day3_RemoveElement.java)
 - **Description**: Remove all instances of a specific value from an array.
 
-### Day 4: [Max Consecutive Ones](./Day4-MaxConsecutiveOnes.java)
+### Day 4: [Max Consecutive Ones](Day4_MaxConsecutiveOnes.java)
 - **Description**: Find the maximum number of consecutive 1s in a binary array.
 
-### Day 5: [Length of Last Word](./Day5-LengthOfLastWord.java)
+### Day 5: [Length of Last Word](Day5_LengthOfLastWord.java)
 - **Description**: Given a string s consisting of words and spaces, return the length of the last word in the string.
 
 A word is a maximal substring consisting of non-space characters only.
 
-### Day 6: [FizzBuzz](./Day6-FizzBuzz.java)
+### Day 6: [FizzBuzz](Day6_FizzBuzz.java)
 - **Description**: Print numbers from 1 to n, but for multiples of three print "Fizz," for multiples of five print "Buzz," and for multiples of both print "FizzBuzz."
 
-### Day 7: [Spiral Matrix](./Day7-SpiralMatrix.java)
+### Day 7: [Spiral Matrix](Day7_SpiralMatrix.java)
 - **Description**: Return all elements of a matrix in spiral order.
 
-### Day 8: [Palindrome Number](./Day8-PalindromeNumber.java)
+### Day 8: [Palindrome Number](Day8_PalindromeNumber.java)
 - **Description**: Determine if a given number is a palindrome.
 
 ### Day 9: [Two Sum](Day9_twosum.java)
