@@ -83,7 +83,7 @@ Return the maximum valued number you can get.
 ### Day 22: [Is Subsequence](Day22_IsSubsequence.java)
 - **Description**: Given two strings s and t, return true if s is a subsequence of t, or false otherwise..
 
-### Day 22: [Word Search](Day23_WordSearch.java)
+### Day 23: [Word Search](Day23_WordSearch.java)
 - **Description**: Given an m x n grid of characters board and a string word, return true if word exists in the grid.
 
 ## 🔧 How to Contribute
