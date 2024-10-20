@@ -86,6 +86,11 @@ Return the maximum valued number you can get.
 ### Day 23: [Word Search](Day23_WordSearch.java)
 - **Description**: Given an m x n grid of characters board and a string word, return true if word exists in the grid.
 
+### Day 24: [Merge Two Sorted Lists](Day24_MergeTwoSortedList.java)
+- **Description**: You are given the heads of two sorted linked lists list1 and list2.
+Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+Return the head of the merged linked list
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
