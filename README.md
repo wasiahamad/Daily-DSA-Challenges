@@ -97,6 +97,9 @@ L0 → L1 → … → Ln - 1 → Ln
 Reorder the list to be on the following form:
 L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 
+### Day 26: [Missing Number](Day26_MissingNumber.java)
+- **Description**: Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
