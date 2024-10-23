@@ -100,6 +100,9 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 ### Day 26: [Missing Number](Day26_MissingNumber.java)
 - **Description**: Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
+### Day 27: [Add Binary](Day27_AddBinary.java)
+- **Description**: Given two binary strings a and b, return their sum as a binary string.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
