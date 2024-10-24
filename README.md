@@ -103,6 +103,9 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 ### Day 27: [Add Binary](Day27_AddBinary.java)
 - **Description**: Given two binary strings a and b, return their sum as a binary string.
 
+### Day 28: [Best Time to Buy and Sell Stock II ](Day28_BestTimetoBuyandSellStockII.java)
+- **Description**: Today, I solved the Best Time to Buy and Sell Stock II problem, where the goal is to maximize profit by buying and selling stocks multiple times. Here’s my approach:
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
