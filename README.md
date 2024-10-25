@@ -106,6 +106,9 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 ### Day 28: [Best Time to Buy and Sell Stock II ](Day28_BestTimetoBuyandSellStockII.java)
 - **Description**: Today, I solved the Best Time to Buy and Sell Stock II problem, where the goal is to maximize profit by buying and selling stocks multiple times. Here’s my approach:
 
+### Day 29: [Reverse Words in a String III](Day29_ReverseWordsString_3.java)
+- **Description**: Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
