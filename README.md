@@ -109,6 +109,13 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 ### Day 29: [Reverse Words in a String III](Day29_ReverseWordsString_3.java)
 - **Description**: Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
+### Day 30: [Search a 2D Matrix II](Day30_SearchMatrix_II.java)
+- **Description**: 
+Write an efficient algorithm that searches for a value target in an m x n integer matrix matrix. This matrix has the following properties:
+
+- Integers in each row are sorted in ascending from left to right.
+- Integers in each column are sorted in ascending from top to bottom.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
