@@ -109,12 +109,19 @@ L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 → …
 ### Day 29: [Reverse Words in a String III](Day29_ReverseWordsString_3.java)
 - **Description**: Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
-### Day 30: [Search a 2D Matrix II](Day30_SearchMatrix_II.java)
+### Day 30: [Search a 2D Matrix II](Day30_SearchMatrix_2.java)
 - **Description**: 
 Write an efficient algorithm that searches for a value target in an m x n integer matrix matrix. This matrix has the following properties:
 
 - Integers in each row are sorted in ascending from left to right.
 - Integers in each column are sorted in ascending from top to bottom.
+
+### Day 31: [Delete Node in a Linked List](Day31_DeleteNode.java)
+- **Description**: 
+- There is a singly-linked list head and we want to delete a node node in it.
+- You are given the node to be deleted node. You will not be given access to the first node of head.
+- All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.
+- Delete the given node. Note that by deleting the node, we do not mean removing it from memory. We mean:
 
 ## 🔧 How to Contribute
 
