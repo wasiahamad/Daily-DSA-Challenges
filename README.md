@@ -123,6 +123,12 @@ Write an efficient algorithm that searches for a value target in an m x n intege
 - All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.
 - Delete the given node. Note that by deleting the node, we do not mean removing it from memory. We mean:
 
+### Day 31: [Pow(x, n)](Day32_ImplementPow.java)
+- **Description**: 
+- Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
+
+
