@@ -131,6 +131,10 @@ Write an efficient algorithm that searches for a value target in an m x n intege
 - **Description**: Given an array nums of distinct integers, return all the possible 
 permutations. You can return the answer in any order.
  
+### Day 34: [Generate Parentheses](Day34_GenerateParentheses.java)
+- **Description**:
+- Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
 
 
 ## 🔧 How to Contribute
