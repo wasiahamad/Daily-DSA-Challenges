@@ -135,6 +135,8 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
+### Day 35: [Next Permutation](Day35_NextPermutation.java)
+- **Description**:
 
 
 ## 🔧 How to Contribute
