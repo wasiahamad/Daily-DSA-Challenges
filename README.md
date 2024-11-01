@@ -139,6 +139,10 @@ permutations. You can return the answer in any order.
 - **Description**:
 - A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 
+### Day 36: [Reverse Integer](Day36_ReverseInteger.java)
+- **Description**:
+- Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
