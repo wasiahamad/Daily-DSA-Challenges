@@ -143,6 +143,10 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
+### Day 36: [Circular Sentence](Day36_CircularSentence.java)
+- **Description**:
+- A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
