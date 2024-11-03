@@ -143,11 +143,11 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
-### Day 36: [Circular Sentence](Day36_CircularSentence.java)
+### Day 37: [Circular Sentence](Day37_CircularSentence.java)
 - **Description**:
 - A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
 
-### Day 36: [Add Two Numbers](Day37_AddTwoNumbers.java)
+### Day 38: [Add Two Numbers](Day38_AddTwoNumbers.java)
 - **Description**:
 - You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
