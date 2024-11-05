@@ -160,6 +160,12 @@ permutations. You can return the answer in any order.
 - Append the length of the prefix followed by c to comp.
 - Return the string comp.
 
+### Day 39: [Maximum Product Subarray](Day39_MaximumProductSubarray.java)
+- **Description**:
+- Given an integer array nums, find a subarray that has the largest product, and return the product.
+- The test cases are generated so that the answer will fit in a 32-bit integer.
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
