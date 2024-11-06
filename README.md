@@ -160,11 +160,14 @@ permutations. You can return the answer in any order.
 - Append the length of the prefix followed by c to comp.
 - Return the string comp.
 
-### Day 39: [Maximum Product Subarray](Day39_MaximumProductSubarray.java)
+### Day 40: [Maximum Product Subarray](Day40_MaximumProductSubarray.java)
 - **Description**:
 - Given an integer array nums, find a subarray that has the largest product, and return the product.
 - The test cases are generated so that the answer will fit in a 32-bit integer.
 
+### Day 41: [Longest Substring Without Repeating Characters](Day41_LongestSubstring.java)
+- **Description**:
+- Given a string s, find the length of the longest substring without repeating characters.
 
 ## 🔧 How to Contribute
 
