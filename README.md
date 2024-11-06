@@ -72,6 +72,14 @@ A word is a maximal substring consisting of non-space characters only.
 
 - **Solution Aproach**: 
 1. Step-1:- 
+- Create a HashMap.
+2. Step-2 :-
+- Iterate over the string and store the frequency of each character in the HashMap.
+3. Step-3 :-
+- Iterate over the string again and check if the frequency of each character in the HashMap is equal to
+the frequency of the same character in the second string.
+4. Step-4 :-
+- Last Check if map.isEmpty() so return true, otherwise false.
 
 ### Day 19: [Valid Parentheses](Day19_ValidParentheses.java)
 - **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
