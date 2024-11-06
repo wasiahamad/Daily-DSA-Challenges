@@ -70,6 +70,9 @@ A word is a maximal substring consisting of non-space characters only.
 ### Day 18: [Valid Anagram](Day18_ValidAnagram.java)
 - **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
 
+- **Solution Aproach**: 
+Step-1:- 
+
 ### Day 19: [Valid Parentheses](Day19_ValidParentheses.java)
 - **Description**: Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string "".
 
