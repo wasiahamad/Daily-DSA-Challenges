@@ -180,6 +180,10 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given a string s, find the length of the longest substring without repeating characters.
 
+### Day 42: [Rotate List](Day42_RotateList.java)
+- **Description**:
+- Given the head of a linked list, rotate the list to the right by k places.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
