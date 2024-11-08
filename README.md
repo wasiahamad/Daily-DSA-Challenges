@@ -184,6 +184,11 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the head of a linked list, rotate the list to the right by k places.
 
+### Day 43: [Delete the Middle Node of a Linked List](Day43_ DeleteMiddleofLinkedlist.java)
+- **Description**:
+
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
