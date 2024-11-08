@@ -182,12 +182,12 @@ permutations. You can return the answer in any order.
 
 ### Day 42: [Rotate List](Day42_RotateList.java)
 - **Description**:
-- You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
-- The middle node of a linked list of size n is the ⌊n / 2⌋th node from the start using 0-based indexing, where ⌊x⌋ denotes the largest integer less than or equal to x.
+- Given the head of a linked list, rotate the list to the right by k places.
 
 ### Day 43: [Delete the Middle Node of a Linked List](Day43_ DeleteMiddleofLinkedlist.java)
 - **Description**:
-
+- You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
+- The middle node of a linked list of size n is the ⌊n / 2⌋th node from the start using 0-based indexing, where ⌊x⌋ denotes the largest integer less than or equal to x.
 
 
 ## 🔧 How to Contribute
