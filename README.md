@@ -189,6 +189,13 @@ permutations. You can return the answer in any order.
 - You are given the head of a linked list. Delete the middle node, and return the head of the modified linked list.
 - The middle node of a linked list of size n is the ⌊n / 2⌋th node from the start using 0-based indexing, where ⌊x⌋ denotes the largest integer less than or equal to x.
 
+### Day 43: [Swapping Nodes in a Linked List](Day43_SwappingNodesLinkedList.java)
+- **Description**:
+- Return the head of the linked list after swapping the values of the kth node from the beginning and the kth node from the end (the list is 1-indexed).
+
+
+
+
 
 ## 🔧 How to Contribute
 
