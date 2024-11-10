@@ -193,7 +193,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Return the head of the linked list after swapping the values of the kth node from the beginning and the kth node from the end (the list is 1-indexed).
 
-### Day 45: [Swapping Nodes in a Linked List](Day45_SwappingNodesLinkedList.java)
+### Day 45: [Swap Nodes in Pairs](Day45_SwapNodesPairs.java)
 - **Description**:
 - Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
 
