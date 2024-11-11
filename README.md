@@ -165,7 +165,6 @@ permutations. You can return the answer in any order.
 ### Day 39: [String Compression III](Day39_StringCompression.java)
 - **Description**:
 - Given a string word, compress it using the following algorithm:
-
 - Begin with an empty string comp. While word is not empty, use the following operation:
 - Remove a maximum length prefix of word made of a single character c repeating at most 9 times.
 - Append the length of the prefix followed by c to comp.
@@ -205,6 +204,6 @@ permutations. You can return the answer in any order.
 
 ## 🔧 How to Contribute
 
-Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
+Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
 
 
