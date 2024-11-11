@@ -197,7 +197,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
 
-### Day 46: [Swap Nodes in Pairs](Day46_SwapNodesPairs.java)
+### Day 46: [Find the Index of the First Occurrence in a String](Day46_implementStr.java)
 - **Description**:
 
 ## 🔧 How to Contribute
