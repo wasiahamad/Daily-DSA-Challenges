@@ -199,6 +199,9 @@ permutations. You can return the answer in any order.
 
 ### Day 46: [Find the Index of the First Occurrence in a String](Day46_implementStr.java)
 - **Description**:
+- Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+
+
 
 ## 🔧 How to Contribute
 
