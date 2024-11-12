@@ -200,7 +200,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
-### Day 46: [Reverse Linked List II](Day46_ReverseLinkedList.java)
+### Day 47: [Reverse Linked List II](Day47_ReverseLinkedList.java)
 - **Description**:
 - Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
 
