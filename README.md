@@ -204,7 +204,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list.
 
-### Day 48: [Reverse Linked List II](Day48_ReverseLinkedList.java)
+### Day 48: [Odd Even Linked List](Day48_OddEvenLinkedList.java)
 - **Description**:
 
 ## 🔧 How to Contribute
