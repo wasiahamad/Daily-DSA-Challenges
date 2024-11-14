@@ -210,7 +210,7 @@ permutations. You can return the answer in any order.
 
 ### Day 49: [Linked List Cycle II](Day49_LinkedListCycle.java)
 - **Description**:
-- 
+- Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.
 
 ## 🔧 How to Contribute
 
