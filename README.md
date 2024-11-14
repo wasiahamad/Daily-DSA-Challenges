@@ -208,7 +208,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
 
-### Day 48: [Odd Even Linked List](Day48_OddEvenLinkedList.java)
+### Day 48: [ Linked List Cycle II](Day48_LinkedListCycle.java)
 - **Description**:
 - 
 
