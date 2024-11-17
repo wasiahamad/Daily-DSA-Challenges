@@ -224,6 +224,7 @@ permutations. You can return the answer in any order.
 
 ### Day 52: [Remove Duplicates from Sorted List](Day52_RemoveDuplicates.java)
 - **Description**:
+- Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
 
 ## 🔧 How to Contribute
 
