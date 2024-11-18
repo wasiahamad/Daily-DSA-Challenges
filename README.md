@@ -226,6 +226,9 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
 
+### Day 52: [Remove Duplicates from Sorted List](Day52_RemoveDuplicates.java)
+- **Description**:
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
