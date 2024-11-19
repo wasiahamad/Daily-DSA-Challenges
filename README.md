@@ -232,6 +232,7 @@ permutations. You can return the answer in any order.
 
 ### Day 54: [Rotate Array](Day54_RotateArray.java)
 - **Description**:
+- Given the head of a linked list, reverse the nodes of the list k at a time, and return the modified list.
 - 
 
 ## 🔧 How to Contribute
