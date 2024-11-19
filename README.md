@@ -230,6 +230,9 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
 
+### Day 53: [Rotate Array](Day53_RotateArray.java)
+- **Description**:
+
 
 ## 🔧 How to Contribute
 
