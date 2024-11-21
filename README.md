@@ -244,6 +244,8 @@ permutations. You can return the answer in any order.
 - Delete the first digit and the closest non-digit character to its left.
 - Return the resulting string after removing all digits.
 
+### Day 55: [Clear Digits](Day55_ClearDigits.java)
+- **Description**:
 
 ## 🔧 How to Contribute
 
