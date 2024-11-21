@@ -246,7 +246,7 @@ permutations. You can return the answer in any order.
 
 ### Day 55: [Remove Duplicates from Sorted List II](Day55_RemoveDuplicatesSortedList.java)
 - **Description**:
-- 
+- Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
 
 ## 🔧 How to Contribute
 
