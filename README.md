@@ -251,7 +251,9 @@ permutations. You can return the answer in any order.
 ### Day 56: [Find Minimum in Rotated Sorted Array II](Day56_RemoveDuplicatesSortedList.java)
 - **Description**:
 - Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums = [0,1,4,4,5,6,7] might become
-- 
+- Given the sorted rotated array nums that may contain duplicates, return the minimum element of this array.
+
+- You must decrease the overall operation steps as much as possible.
 
 ## 🔧 How to Contribute
 
