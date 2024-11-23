@@ -255,7 +255,7 @@ permutations. You can return the answer in any order.
 
 - You must decrease the overall operation steps as much as possible.
 
-### Day 57: [Find Minimum in Rotated Sorted Array II](Day57_RemoveDuplicatesSortedList.java)
+### Day 57: [ Find a Peak Element II](Day57_RemoveDuplicatesSortedList.java)
 - **Description**:
 
 
