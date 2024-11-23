@@ -255,8 +255,10 @@ permutations. You can return the answer in any order.
 
 - You must decrease the overall operation steps as much as possible.
 
-### Day 57: [ Find a Peak Element II](Day57_RemoveDuplicatesSortedList.java)
+### Day 57: [ Find a Peak Element II](Day57_ FindPeakElement.java)
 - **Description**:
+- A peak element in a 2D grid is an element that is strictly greater than all of its adjacent neighbors to the left, right, top, and bottom.
+
 
 
 
