@@ -255,7 +255,7 @@ permutations. You can return the answer in any order.
 
 - You must decrease the overall operation steps as much as possible.
 
-### Day 57: [ Find a Peak Element II](Day57_ FindPeakElement.java)
+### Day 57: [ Find a Peak Element II](Day57_FindPeakElement.java)
 - **Description**:
 - A peak element in a 2D grid is an element that is strictly greater than all of its adjacent neighbors to the left, right, top, and bottom.
 - Given a 0-indexed m x n matrix mat where no two adjacent cells are equal, find any peak element mat[i][j] and return the length 2 array [i,j].
@@ -265,7 +265,7 @@ permutations. You can return the answer in any order.
 - You must write an algorithm that runs in O(m log(n)) or O(n log(m)) time.
 
 
-### Day 58: [ Find a Peak Element II](Day58_ FindPeakElement.java)
+### Day 58: [ Kth Smallest Element in a Sorted Matrix](Day58_Kth Smallest Element.java)
 - **Description**:
 - 
 
