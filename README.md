@@ -277,7 +277,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 
-### Day 59: [Diagonal Traverse](Day59_DiagonalTraverse.java)
+### Day 59: [Binary Tree Level Order Traversal](Day59_BinaryTreeLevelOrderTraversal.java)
 - **Description**:
 
 ## 🔧 How to Contribute
