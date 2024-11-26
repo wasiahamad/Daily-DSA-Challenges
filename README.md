@@ -277,7 +277,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 
-### Day 59: [Binary Tree Level Order Traversal](Day59_BinaryTreeLevelOrderTraversal.java)
+### Day 60: [Binary Tree Level Order Traversal](Day60_BinaryTreeLevelOrderTraversal.java)
 - **Description**:
 - Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
