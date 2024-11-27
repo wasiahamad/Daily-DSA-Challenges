@@ -281,9 +281,13 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
-### Day 60: [Binary Tree Level Order Traversal](Day60_LevelOrderTraversal.java)
+### Day 61: [Find First and Last Position of Element in Sorted Array](Day61_FindFirstLastPosition.java)
 - **Description**:
+- Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.
 
+- If target is not found in the array, return [-1, -1].
+
+- You must write an algorithm with O(log n) runtime complexity.
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
