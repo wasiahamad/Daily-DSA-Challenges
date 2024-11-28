@@ -288,6 +288,11 @@ permutations. You can return the answer in any order.
 - If target is not found in the array, return [-1, -1].
 
 - You must write an algorithm with O(log n) runtime complexity.
+
+### Day 62: [Find First and Last Position of Element in Sorted Array](Day62_FindFirstLastPosition.java)
+- **Description**:
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
