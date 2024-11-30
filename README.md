@@ -295,7 +295,7 @@ permutations. You can return the answer in any order.
 ### Day 63: [Find First and Last Position of Element in Sorted Array](Day63_FindFirstLastPosition.java)
 - **Description**:
 
-### Day 64: [Find First and Last Position of Element in Sorted Array](Day64_FindFirstLastPosition.java)
+### Day 64: [ Next Greater Node In Linked List](Day64_NextGreaterNode.java)
 - **Description**:
 
 ## 🔧 How to Contribute
