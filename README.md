@@ -303,6 +303,11 @@ permutations. You can return the answer in any order.
 
 - Return an integer array answer where answer[i] is the value of the next greater node of the ith node (1-indexed). If the ith node does not have a next greater node, set answer[i] = 0.
 
+### Day 64: [ Next Greater Node In Linked List](Day64_NextGreaterNode.java)
+- **Description**:
+
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
