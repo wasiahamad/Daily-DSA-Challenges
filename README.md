@@ -303,9 +303,11 @@ permutations. You can return the answer in any order.
 
 - Return an integer array answer where answer[i] is the value of the next greater node of the ith node (1-indexed). If the ith node does not have a next greater node, set answer[i] = 0.
 
-### Day 64: [ Binary Tree Zigzag Level Order Traversal](Day64_BinaryTreeZigzag.java)
+### Day 65: [ Binary Tree Zigzag Level Order Traversal](Day65_BinaryTreeZigzag.java)
 - **Description**:
 
+### Day 64: [ Binary Tree Zigzag Level Order Traversal](Day64_BinaryTreeZigzag.java)
+- **Description**:
 
 
 ## 🔧 How to Contribute
