@@ -306,7 +306,7 @@ permutations. You can return the answer in any order.
 ### Day 65: [ Binary Tree Zigzag Level Order Traversal](Day65_BinaryTreeZigzag.java)
 - **Description**:
 
-### Day 66: [ Binary Tree Zigzag Level Order Traversal](Day66_BinaryTreeZigzag.java)
+### Day 66: [ Check If a Word Occurs As a Prefix of Any Word in a Sentence](Day66_BinaryTreeZigzag.java)
 - **Description**:
 
 
