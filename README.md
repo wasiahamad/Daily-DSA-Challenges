@@ -315,7 +315,7 @@ permutations. You can return the answer in any order.
 
 - A prefix of a string s is any leading contiguous substring of s
 
-### Day 66: [ Check If a Word Occurs As a Prefix of Any Word in a Sentence](Day66_BinaryTreeZigzag.java)
+### Day 66: [ Longest Substring with At Least K Repeating Characters](Day66_BinaryTreeZigzag.java)
 - **Description**:
 
 ## 🔧 How to Contribute
