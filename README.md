@@ -318,6 +318,9 @@ permutations. You can return the answer in any order.
 ### Day 67: [ Longest Substring with At Least K Repeating Characters](Day6_LongestSubstring.java)
 - **Description**:
 
+- Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
+- if no such substring exists, return 0.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
