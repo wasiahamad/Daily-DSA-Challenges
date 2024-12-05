@@ -315,7 +315,7 @@ permutations. You can return the answer in any order.
 
 - A prefix of a string s is any leading contiguous substring of s
 
-### Day 67: [ Longest Substring with At Least K Repeating Characters](Day6_LongestSubstring.java)
+### Day 67: [ Longest Substring with At Least K Repeating Characters](Day67_LongestSubstring.java)
 - **Description**:
 
 - Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
@@ -324,6 +324,7 @@ permutations. You can return the answer in any order.
 ### Day 68: [  Kth Smallest Element in a BST](Day68_KthSmallestElement.java)
 - **Description**:
 - Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
