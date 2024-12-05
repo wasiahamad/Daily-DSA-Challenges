@@ -321,7 +321,7 @@ permutations. You can return the answer in any order.
 - Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
 - if no such substring exists, return 0.
 
-### Day 67: [ Longest Substring with At Least K Repeating Characters](Day6_LongestSubstring.java)
+### Day 68: [ Longest Substring with At Least K Repeating Characters](Day68_LongestSubstring.java)
 - **Description**:
 
 ## 🔧 How to Contribute
