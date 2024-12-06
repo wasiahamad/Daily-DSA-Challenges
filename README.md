@@ -325,7 +325,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.
 
-### Day 68: [  Kth Smallest Element in a BST](Day68_KthSmallestElement.java)
+### Day 68: [Valid Sudoku](Day68_ValidSudoku.java)
 - **Description**:
 
 ## 🔧 How to Contribute
