@@ -321,7 +321,7 @@ permutations. You can return the answer in any order.
 - Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
 - if no such substring exists, return 0.
 
-### Day 68: [  Kth Smallest Element in a BST](Day68_KthSmallestElement.java)
+### Day 68: [Kth Smallest Element in a BST](Day68_KthSmallestElement.java)
 - **Description**:
 - Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.
 
