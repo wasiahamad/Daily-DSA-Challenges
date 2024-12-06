@@ -328,6 +328,14 @@ permutations. You can return the answer in any order.
 ### Day 68: [Valid Sudoku](Day68_ValidSudoku.java)
 - **Description**:
 
+- ⏺️ Determine if a given 9x9 Sudoku board is valid based on the following rules:
+- ⏺️ Each row must contain digits 1-9 without repetition.
+- ⏺️ Each column must contain digits 1-9 without repetition.
+- ⏺️ Each of the nine 3x3 sub-grids must contain digits 1-9 without repetition.
+Note:
+- ⏺️ The board can include the character '.', which represents an empty cell.
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
