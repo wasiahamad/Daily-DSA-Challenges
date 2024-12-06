@@ -325,7 +325,7 @@ permutations. You can return the answer in any order.
 - **Description**:
 - Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree.
 
-### Day 68: [Valid Sudoku](Day68_ValidSudoku.java)
+### Day 69: [Valid Sudoku](Day69_ValidSudoku.java)
 - **Description**:
 
 - ⏺️ Determine if a given 9x9 Sudoku board is valid based on the following rules:
