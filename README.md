@@ -335,6 +335,9 @@ permutations. You can return the answer in any order.
 Note:
 - ⏺️ The board can include the character '.', which represents an empty cell.
 
+### Day 69: [Valid Sudoku](Day69_ValidSudoku.java)
+- **Description**:
+
 
 ## 🔧 How to Contribute
 
