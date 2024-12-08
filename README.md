@@ -338,7 +338,7 @@ Note:
 ### Day 70: [Valid Sudoku](Day70_ValidSudoku.java)
 - **Description**:
 
-### Day 69: [Valid Sudoku](Day69_ValidSudoku.java)
+### Day 71: [Valid Sudoku](Day72_ValidSudoku.java)
 - **Description**:
 
 ## 🔧 How to Contribute
