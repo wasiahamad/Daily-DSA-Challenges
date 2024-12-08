@@ -338,6 +338,10 @@ Note:
 ### Day 70: [3Sum](Day70_3Sum.java)
 - **Description**:
 
+- Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+- Notice that the solution set must not contain duplicate triplets.
+
 ### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
 - **Description**:
 
