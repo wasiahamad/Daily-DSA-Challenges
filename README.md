@@ -338,7 +338,7 @@ Note:
 ### Day 70: [Valid Sudoku](Day70_ValidSudoku.java)
 - **Description**:
 
-### Day 71: [Valid Sudoku](Day72_ValidSudoku.java)
+### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
 - **Description**:
 
 ## 🔧 How to Contribute
