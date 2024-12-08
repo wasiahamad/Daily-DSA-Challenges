@@ -335,7 +335,7 @@ permutations. You can return the answer in any order.
 Note:
 - ⏺️ The board can include the character '.', which represents an empty cell.
 
-### Day 70: [Valid Sudoku](Day70_ValidSudoku.java)
+### Day 70: [3Sum](Day70_3Sum.java)
 - **Description**:
 
 ### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
