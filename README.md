@@ -342,10 +342,10 @@ Note:
 
 - Notice that the solution set must not contain duplicate triplets.
 
-### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
+### Day 71: [Zigzag Conversion](Day71_ZigzagConversion.java)
 - **Description**:
 
-### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
+### Day 72: [Zigzag Conversion](Day72_ZigzagConversion.java)
 - **Description**:
 
 ## 🔧 How to Contribute
