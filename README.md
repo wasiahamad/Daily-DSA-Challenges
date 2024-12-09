@@ -348,6 +348,9 @@ Note:
 ### Day 72: [Search in Rotated Sorted Array II](Day72_SearchRotated.java)
 - **Description**:
 
+- You are given a sorted array nums that has been rotated at an unknown pivot. You are also given a target value. Your task is to determine if the target exists in the array. The array may contain duplicates.
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
