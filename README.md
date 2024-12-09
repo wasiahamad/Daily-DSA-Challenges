@@ -344,6 +344,7 @@ Note:
 
 ### Day 71: [Zigzag Conversion](Day71_ZigzagConversion.java)
 - **Description**:
+- Convert a given string s into a zigzag pattern with a specified number of rows, and then read the characters row by row to form the output string.
 
 ### Day 72: [Search in Rotated Sorted Array II](Day72_SearchRotated.java)
 - **Description**:
