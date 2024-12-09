@@ -345,7 +345,7 @@ Note:
 ### Day 71: [Zigzag Conversion](Day71_ZigzagConversion.java)
 - **Description**:
 
-### Day 72: [Zigzag Conversion](Day72_ZigzagConversion.java)
+### Day 72: [Search in Rotated Sorted Array II](Day72_SearchRotated.java)
 - **Description**:
 
 ## 🔧 How to Contribute
