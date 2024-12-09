@@ -345,6 +345,9 @@ Note:
 ### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
 - **Description**:
 
+### Day 71: [Zigzag Conversion](Day72_ZigzagConversion.java)
+- **Description**:
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
