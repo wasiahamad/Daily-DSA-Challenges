@@ -351,7 +351,7 @@ Note:
 
 - You are given a sorted array nums that has been rotated at an unknown pivot. You are also given a target value. Your task is to determine if the target exists in the array. The array may contain duplicates.
 
-### Day 72: [Search in Rotated Sorted Array II](Day72_SearchRotated.java)
+### Day 73: [Search in Rotated Sorted Array II](Day73_SearchRotated.java)
 - **Description**:
 
 ## 🔧 How to Contribute
