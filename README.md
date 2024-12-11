@@ -360,7 +360,7 @@ Note:
 
 - You must solve this problem without using the library's sort function.
 
-### Day 73: [ Sort Colors](Day73_SortColors.java)
+### Day 74: [ Sort Colors](Day74_SortColors.java)
 - **Description**:
 
 
