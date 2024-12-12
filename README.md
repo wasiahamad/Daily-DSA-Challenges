@@ -364,6 +364,11 @@ Note:
 - **Description**:
 - Given a binary tree, determine if it is height-balanced.
 
+### Day 75: [Merge k Sorted Lists](Day75_MergekSortedLists.java)
+- **Description**:
+- You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
+- Merge all the linked-lists into one sorted linked-list and return it.
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
