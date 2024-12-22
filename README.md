@@ -364,6 +364,11 @@ Note:
 - **Description**:
 - Given a binary tree, determine if it is height-balanced.
 
+### Day 74: [Balanced Binary Tree](Day74_BalancedBinaryTree.java)
+- **Description**:
+- Given a binary tree, determine if it is height-balanced.
+
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged! 
