@@ -369,7 +369,7 @@ Note:
 - You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
 - Merge all the linked-lists into one sorted linked-list and return it.
 
-### Day 75: [Merge k Sorted Lists](Day75_MergekSortedLists.java)
+### Day 76: [Merge k Sorted Lists](Day76_MergekSortedLists.java)
 - **Description**:
 - You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.
 - Merge all the linked-lists into one sorted linked-list and return it.
