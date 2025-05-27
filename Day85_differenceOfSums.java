@@ -14,8 +14,8 @@ public class Day85_differenceOfSums {
         return sumNotDivisible - sumDivisible;
     }
 
-    // public static void main(String[] args) {
-    //     Day85_differenceOfSums solution = new Day85_differenceOfSums();
-    //     System.out.println(solution.differenceOfSums(10, 3)); // Example usage
-    // }
+    public static void main(String[] args) {
+        Day85_differenceOfSums solution = new Day85_differenceOfSums();
+        System.out.println(solution.differenceOfSums(10, 3)); // Example usage
+    }
 }
