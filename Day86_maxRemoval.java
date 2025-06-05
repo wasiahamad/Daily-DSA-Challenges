@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class Day85_maxRemoval {
+public class Day86_maxRemoval {
     public int maxRemoval(int[] nums, int[][] queries) {
         Arrays.sort(queries, (a, b) -> a[0] - b[0]);
         PriorityQueue<Integer> heap = new PriorityQueue<>(
@@ -32,7 +32,7 @@ public class Day85_maxRemoval {
     }
 
     public static void main(String[] args) {
-        Day85_maxRemoval solution = new Day85_maxRemoval();
+        Day86_maxRemoval solution = new Day86_maxRemoval();
         int[] nums = {1, 2, 3, 4, 5};
         int[][] queries = {{0, 2}, {1, 3}, {2, 4}};
         int result = solution.maxRemoval(nums, queries);
