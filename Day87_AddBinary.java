@@ -35,8 +35,8 @@ class Day87_AddBinary {
 
     public static void main(String[] args) {
         Day87_AddBinary solution = new Day87_AddBinary();
-        String a = "1010";
-        String b = "1101";
+        String a = "11";
+        String b = "1";
         System.out.println("Sum of " + a + " and " + b + " is: " + solution.addBinary(a, b)); // Output: 10111
     }
 }
