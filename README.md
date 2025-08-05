@@ -337,7 +337,7 @@ A word is a maximal substring consisting of non-space characters only.
 
 - Note that it is the kth smallest element in the sorted order, not the kth distinct element.
 
-- You must find a solution with a memory complexity better than O(n2).
+- You must find a solution with a memory complexity better than O(n2)..
 
 ### Day 59: [Diagonal Traverse](Day59_DiagonalTraverse.java)
 
