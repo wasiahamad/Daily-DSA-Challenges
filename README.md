@@ -457,6 +457,11 @@ A word is a maximal substring consisting of non-space characters only.
 - **Description**:
 - Given the root of a binary tree, return the bottom-up level order traversal of its nodes values. (i.e., from left to right, level by level from leaf to root). plase write a code
 
+### Day 77: [Next Greater Element] (Day77_NextGreaterElement.java)
+
+- **Description**:  
+- Given a circular integer array nums of length n, return the index of the next greater element 
+
 ## 🔧 How to Contribute
 
 Feel free to contribute by submitting pull requests or opening issues for improvements or additional challenges. Collaboration is encouraged!
